@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|c:\\users\\eniki\\downloads\\\u0434\u044D\\demexam\\demexam\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|solutionrelative:demexam\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|c:\\users\\eniki\\downloads\\\u0434\u044D\\demexam\\demexam\\windows\\editproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|solutionrelative:demexam\\windows\\editproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demexam\\windows\\editproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|solutionrelative:demexam\\windows\\editproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demexam\\windows\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|solutionrelative:demexam\\windows\\addproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demexam\\windows\\adminproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|solutionrelative:demexam\\windows\\adminproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demexam\\dbmodel\\\u0442\u043E\u0432\u0430\u0440.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|solutionrelative:demexam\\dbmodel\\\u0442\u043E\u0432\u0430\u0440.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demexam\\dbmodel\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D335EEA7-9FC4-4C7B-A16E-EEED7D7404C5}|demExam\\demExam.csproj|solutionrelative:demexam\\dbmodel\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u0422\u043E\u0432\u0430\u0440.cs",
+              "DocumentMoniker": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\dbModel\\\u0422\u043E\u0432\u0430\u0440.cs",
+              "RelativeDocumentMoniker": "demExam\\dbModel\\\u0422\u043E\u0432\u0430\u0440.cs",
+              "ToolTip": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\dbModel\\\u0422\u043E\u0432\u0430\u0440.cs",
+              "RelativeToolTip": "demExam\\dbModel\\\u0422\u043E\u0432\u0430\u0440.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA4wFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:25:40.13Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\dbModel\\Model1.edmx",
+              "RelativeDocumentMoniker": "demExam\\dbModel\\Model1.edmx",
+              "ToolTip": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\dbModel\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "demExam\\dbModel\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-05-23T10:38:49.492Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\App.config",
+              "RelativeDocumentMoniker": "demExam\\App.config",
+              "ToolTip": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\App.config",
+              "RelativeToolTip": "demExam\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-25T09:03:50.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "editProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\Windows\\editProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "demExam\\Windows\\editProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\Windows\\editProductWindow.xaml.cs",
+              "RelativeToolTip": "demExam\\Windows\\editProductWindow.xaml.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAjwKYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T13:36:28.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "addProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\Windows\\addProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "demExam\\Windows\\addProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\Windows\\addProductWindow.xaml.cs",
+              "RelativeToolTip": "demExam\\Windows\\addProductWindow.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowHoAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T13:39:21.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "editProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\Windows\\editProductWindow.xaml",
+              "RelativeDocumentMoniker": "demExam\\Windows\\editProductWindow.xaml",
+              "ToolTip": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\Windows\\editProductWindow.xaml",
+              "RelativeToolTip": "demExam\\Windows\\editProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-24T13:32:17.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adminProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\Windows\\adminProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "demExam\\Windows\\adminProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\eniki\\Downloads\\\u0414\u042D\\demExam\\demExam\\Windows\\adminProductWindow.xaml.cs",
+              "RelativeToolTip": "demExam\\Windows\\adminProductWindow.xaml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv38AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T12:24:57.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
